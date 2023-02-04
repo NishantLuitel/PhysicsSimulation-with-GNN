@@ -1,0 +1,3 @@
+temp/
+dataverse_files/
+.venv/

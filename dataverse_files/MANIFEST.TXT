@@ -1,0 +1,4 @@
+gns-water-drop-sample/metadata.json/metadata.json (application/json) 365 bytes.
+gns-water-drop-sample/test.npz/test.npz (application/octet-stream) 7596095 bytes.
+gns-water-drop-sample/train.npz/train.npz (application/octet-stream) 7174932 bytes.
+gns-water-drop-sample/valid.npz/valid.npz (application/octet-stream) 5933885 bytes.
