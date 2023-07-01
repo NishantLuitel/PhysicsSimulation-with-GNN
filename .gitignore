@@ -6,4 +6,5 @@ animations/
 2d_loss_plots/
 best_models/
 airfoil/
-
+ejecta_number_flat_3d.dat
+data.ipynb
